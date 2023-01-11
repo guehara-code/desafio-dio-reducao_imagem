@@ -1,0 +1,1 @@
+## Desafio DIO de criação de programa de redução de imagem para escala de cinza e preto e branco.
